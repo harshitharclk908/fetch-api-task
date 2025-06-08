@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#user-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.user-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+  width: 250px;
+  background-color: #f9f9f9;
+}
